@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "dependencies": {
+    "core-js": "^3.43.0",
+    "uuid": "^11.1.0"
+  },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel": "^2.15.4"
   }
 }
