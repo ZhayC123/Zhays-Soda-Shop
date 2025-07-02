@@ -51,6 +51,7 @@ background: none;
 
 img {
     width: 90%;
+    margin-left: 20px;
 }
 
 .section-content {
@@ -142,7 +143,7 @@ transition: 0.3s ease;
     border-radius: var(--border-radius-m);
     background: var(--white-color);
     font-weight: var(--font-wheight-medium);
-    margin-right: 266px;
+    margin-right: 50px;
 }
 
 .button:hover {
